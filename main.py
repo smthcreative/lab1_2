@@ -127,20 +127,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    
-# main((2015, 49.817545, 24.023932, '2s/locations.list'))
-# main(arguments())
-# read_list(2015)
-# find_location('Coventry,West Midlands,England,UK')
-
-# print(distance(49.817545, 24.023932, 52.4081812, 1.510477 ))
-# print(nearest_point(49.817545, 24.023932, [['Zhong Kui fu mo: Xue yao mo ling', 2015, 'Zhejiang, China', (29.0000001, 119.9999999)]]))
-
-# start = time.time()
-# print(create_map(49.817545, 24.023932, nearest_point(49.817545, 24.023932, read_list(2015, '2s/locations.list'))))
-# f = time.time()
-# print(f- start)
-# map = folium.Map()
-# map = folium.Map(tiles="Stamen Terrain",
-# location=[49.817545, 24.023932],
-# zoom_start=17)
