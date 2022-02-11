@@ -11,6 +11,6 @@ In addition map has three layers: basic layer, 10 nearest point(blue marker), 10
 Example of input:
 ![image](https://user-images.githubusercontent.com/93734464/153667699-b8b4ad54-f409-4984-aa39-5c37ead44b30.png)
 
-And as a result he gets HTML file: _Map_.html
+And as a result he gets HTML file: Map.html
 looks:![image](https://user-images.githubusercontent.com/93734464/153671737-bf9d8676-1e48-4383-a69d-c8961bcc685f.png)
 
